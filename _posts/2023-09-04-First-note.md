@@ -1,6 +1,0 @@
----
-layout: post
-category: random
-share: true
----
-This is a test!
