@@ -5,16 +5,19 @@ entries:
         url: https://x.com/wmsadotme
       - title: nostr
         url: https://primal.net/profile/npub1ccvdht3wwufh8d0twzf47wjuc7eyktwkxjth0f2aj0shyr4ytkts4krl0s
-      - title: "keep in touch: <a href='/feed.xml'>rss feed</a>"
+      - title: "update: <a href='/feed.xml'>rss feed</a>"
       # - title: github
       #   url: https://github.com/syazarilasyraf
 
   - title: notes
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+
+  - title: tags
+    url: /tags.html
 
   # - title: posts by category
   #   post_list:

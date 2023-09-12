@@ -2,6 +2,8 @@
 layout: post
 category: notes
 share: true
+tags:
+  - Tech
 ---
 The bottom line is: The Internet is evolving, expanding and becoming its own ecosystem, and behavioral marketing on the Internet is here to stay.
 

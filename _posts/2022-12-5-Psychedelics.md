@@ -1,6 +1,8 @@
 ---
 layout: post
 category: notes
+tags:
+  - Society
 share: true
 ---
 Psychedelics create a "counter culture" in the mind. People who do psychedelics or have experienced them, tend to "break free" from the false reality or veil that has placed over our eyes. 

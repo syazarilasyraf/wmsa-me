@@ -1,0 +1,8 @@
+---
+layout: post
+category: notes
+tags:
+  - Tech
+share: true
+---
+Every 6 months the tech industry enters a brief episode of mass collective hallucination where everyone is ardently convinced that an epochal tech revolution has just begun, that a "civilizational" technology is starting to take over.
