@@ -1,14 +1,14 @@
 ---
 permalink: /tags.html
 layout: default
-title: All Tags
+title: wmsa | All Tags
 ---
 
 <div>
 {%-include back_link.html-%}
 </div>
 
-<h1>{{ page.title }}</h1>
+<h1>All tags</h1>
 
 <div>
     {% for tag in site.tags %}
@@ -16,7 +16,7 @@ title: All Tags
     {% endfor %}
 </div>
 
-<hr/>
+<!-- <hr><hr/> -->
 
 <div>
     {% for tag in site.tags %}
