@@ -1,13 +1,15 @@
 entries:
   - title: me
     entries:
+      # - title: syazarilasyraf.com
+      #   url: https://syazarilasyraf.com
+      - title: github
+        url: https://github.com/syazarilasyraf/wmsa-me
+      # - title: nostr
+      #   url: https://primal.net/profile/npub1ccvdht3wwufh8d0twzf47wjuc7eyktwkxjth0f2aj0shyr4ytkts4krl0s
       # - title: x
       #   url: https://x.com/wmsadotme
-      - title: nostr
-        url: https://primal.net/profile/npub1ccvdht3wwufh8d0twzf47wjuc7eyktwkxjth0f2aj0shyr4ytkts4krl0s
       - title: "update: <a href='/feed.xml'>rss feed</a>"
-      # - title: github
-      #   url: https://github.com/syazarilasyraf
 
   - title: notes
     post_list:
